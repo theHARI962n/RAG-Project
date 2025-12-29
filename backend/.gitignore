@@ -7,3 +7,5 @@ uploads
 .env
 .vscode
 pyvenv.cfg
+chroma
+venv
